@@ -7,6 +7,7 @@
   background-size: cover;
   position: relative;
   border-radius: 16px;
+  margin: 50px 100px 50px 100px;
   
   filter: saturate(60%);
 }
@@ -26,6 +27,7 @@
 }
 .section1 {
     font-size: 44px;
+    margin: 50px 100px 50px 100px;
 
     text-align: center;
 }
@@ -37,9 +39,13 @@
 }
 .prty{
     background-image: url(Vectorrr.png);
-    width: 1320px;
-    height: 600px;
+    min-width: 1320px;
+    min-height: 600px;
     display: flex;
+    margin: 50px 100px 50px 100px;
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
 
 }
 .txt2{
@@ -55,3 +61,126 @@
 #txt11{
     font-size: 20px;
 }
+.sld{
+    background-color: rgb(238, 220, 223);
+    margin: 50px 100px 50px 100px;
+    text-align: center;
+    padding: 80px;
+    border-radius: 16px;
+}
+.btn {
+    background-color: red;
+    border-color: red;
+    border-radius: 4px;
+}
+
+.round{
+    display: flex;
+    
+    margin: 50px 100px 50px 100px;
+}
+.dot{
+    
+   border: 2px solid red;
+   background-color: #FFFFFF;
+  
+   border-radius:100%;
+    
+    
+}
+.spn{
+    
+    border: ;
+}
+   .txt12 {
+   
+   position: relative;
+   left: 400px;
+   
+    
+   } 
+
+   .txt13{
+    
+    text-align: center;
+   }
+   .img1{
+    display: flex;
+   }
+   .img2{
+    background-image: url(Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:420px ;
+    width: 430px;
+   }
+   #fifty{
+    position: relative;
+    right:180px ;
+   }
+   .offer50{
+    margin: 50px 100px 50px 100px;
+   }
+   .container{
+    display: grid;
+  grid-template-columns: auto auto auto;
+  
+  padding: 10px;
+
+   }
+   .item{
+    border:5px solid white ;
+   }
+   .pimg{
+    margin: 50px 100px 50px 100px;
+   }
+   .gulabi{
+    margin: 50px 100px 50px 100px;
+    background-color: pink;
+    border-radius: 16px;
+    text-align: center;
+    padding: 60px;
+   }
+   #bar{
+    border-radius: 20px;
+    height: 40px;
+    width: 400px;
+    
+   }
+   #btn22{
+    border-radius: 20px;
+    height: 40px;
+    width: 60px;
+    background-color: red;
+    text-align: center;
+    color: #FFFFFF;
+    background-size: contain;
+   }
+   .ft1{
+    display: flex;
+   
+  
+   }
+   #tt12{
+    justify-content: flex-end;
+    color: #FFFFFF;
+   }
+   #tt133{
+    color: #FFFFFF;
+    text-align: right;
+   }
+   .ftimg{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+   }
+   .footer{
+    background-color: black;
+    background-size: cover;
+    height:500px ;
+    width: 1500px;
+
+   }
+   .redbg{
+    margin: 50px 100px 50px 100px;
+   }
